@@ -1,2 +1,7 @@
+# Байт-код, оптимизированные / DLL-файлы
+__pycache__/
+*.py[cod]
+
+# Файлы конфигурации для venv
 my_venv/
-protos/__pycache__/
+.env
